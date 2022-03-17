@@ -1,4 +1,4 @@
-##Insertion Sort Project 
+## Insertion Sort Project 
 * [22,27,16,2,18,6] -> Insertion Sort
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -10,7 +10,7 @@
 2. Big-O gösterimini yazınız.
     - n + (n-1) + (n-2) + ..... + 1 = (n * (n + 1))/2 = (n^2 + n)/2
     - O(n^2)
-    
+
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması,Best case: Aradığımız sayının dizinin en başında olması.
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
     - 18 sayısı average case kapsamına girer.
